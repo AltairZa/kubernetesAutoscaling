@@ -1,3 +1,7 @@
+# youtube video
+https://www.youtube.com/watch?v=lD0t-UgKfEo&ab_channel=AntonPutra
+
+
 # GitHub Actions Self Hosted Runner (Autoscaling with Kubernetes)
 
 [YouTube Tutorial](https://youtu.be/lD0t-UgKfEo)
